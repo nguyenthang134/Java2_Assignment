@@ -1,0 +1,5 @@
+Student{id=A0001, name=Nguyen Van A, money=1500.0, date=03/01/2016}
+Student{id=A0002, name=Tran Thi B, money=350.0, date=01/01/2016}
+Student{id=A0005, name=Pham Van E, money=200.0, date=19/12/2016}
+Student{id=A0003, name=Nguyen Thi C, money=650.0, date=07/01/2017}
+Student{id=A0004, name=Tran Ngoc D, money=400.0, date=04/01/2017}

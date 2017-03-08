@@ -1,0 +1,11 @@
+﻿Mã sinh viên		Tên			Số tiền		Ngày đóng
+A0001			Nguyen Van A		500.000		22/12/2016
+A0002			Tran Thi B		200.000		20/10/2016
+A0003			Nguyen Thi C		350.000		19/12/2016
+A0001			Nguyen Van A		700.000		30/12/2016
+A0004			Tran Ngoc D		200.000		18/12/2016
+A0005			Pham Van E		200.000		19/12/2016
+A0002			Tran Thi B		150.000		01/01/2016
+A0001			Nguyen Van A		300.000		03/01/2016
+A0004			Tran Ngoc D		200.000		04/01/2017
+A0003			Nguyen Thi C		300.000		07/01/2017
